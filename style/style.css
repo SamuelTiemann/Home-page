@@ -1,0 +1,30 @@
+body{
+    background-color: #3F2A55;
+    color:white
+}
+a{
+    color:white;
+}
+header{ 
+    display:grid;
+    border: 5px solid black;
+}
+p.anchor{
+    text-align: right;
+    font-size: larger;
+}
+img.logo{
+    margin-top: 3%;
+    margin-left: 4%;
+    height: 150px;
+    width: 150px;
+}
+main{
+    margin-top: 10px;
+    border: 5px solid black;
+    text-align: center;
+}
+img.profPic{
+    margin-top: 5px;
+    border: 4px solid black;
+}
